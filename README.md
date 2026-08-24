@@ -8,6 +8,11 @@
 - **Python** ： AI Agent / LLM 应用开发（学习中）。
 - **其它** ： 未来学习Go、Rust和TypeScript。
 
+## hobby
+- **围棋** ：业务三段。
+
+
+
 <!--
   更多技术栈可照此添加，例如：
   - **Java** / **TypeScript** / **Rust**
