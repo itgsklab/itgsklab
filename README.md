@@ -1,42 +1,27 @@
-# About me 👋
-我是一名 AI 全栈开发工程师，专注于全栈应用开发 + AI应用集成。热爱构建完整的业务系统和创意产品，对微服务架构、数据可视化、AI智能化应用有较为深入的理解。
+<div align="center">
+  <img src="https://count.getloli.com/get/@itgsklab?theme=rule34" alt="itgsklab profile views" width="300" />
+</div>
 
+<div align="center">
+  <a href="https://itgsklab.github.io/sikangLab/">
+    <img src="assets/sikang-rabbit.png" alt="Sikang Lab rabbit mascot" width="260" />
+  </a>
+</div>
 
+<p align="center"><em>Build, learn, share.</em></p>
 
-## Tech Stack
-- **Java** ：有一定的了解。
-- **Python** ： AI Agent / LLM 应用开发（学习中）。
-- **其它** ： 未来学习Go、Rust和TypeScript。
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itgsklab/itgsklab/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itgsklab/itgsklab/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/itgsklab/itgsklab/output/github-contribution-grid-snake.svg" />
+</picture>
 
-## hobby
-- **围棋** ：学习ing。
-- **烹饪** ：有一定功底。
-
-
-
-<!--
-  更多技术栈可照此添加，例如：
-  - **Java** / **TypeScript** / **Rust**
--->
-
-## Experience
-持续学习与积累中。
-
-<!--
-  有实习/工作经历后，参照 peakxy 的格式添加：
-  - Current: [@公司](https://example.com)
-  - Previously: [@公司](https://example.com)
--->
-
-## Github Activity
-<!-- STATS:START -->
-<table align="center">
-  <tr>
-    <td align="center"><b>0</b><br/><sub>Stars</sub></td>
-    <td align="center"><b>3</b><br/><sub>Commits</sub></td>
-    <td align="center"><b>0</b><br/><sub>Pull Requests</sub></td>
-    <td align="center"><b>0</b><br/><sub>Issues</sub></td>
-    <td align="center"><b>1</b><br/><sub>Repositories</sub></td>
-  </tr>
-</table>
-<!-- STATS:END -->
+- 👋 我是郭同学，一名关注实际落地的全栈开发者
+- 🌱 主要学习与实践 Java、Python、Web 应用和 AI Agent
+- 🤖 关注工具调用、RAG、上下文编排与 AI 辅助开发
+- 🔭 正在维护 [Sikang Lab](https://github.com/itgsklab/sikangLab)，记录工程实践与技术思考
+- 📕 我的技术积累站：[itgsklab.github.io/sikangLab](https://itgsklab.github.io/sikangLab/)
+- ♟️ 业余喜欢围棋、烹饪，也喜欢研究能真正提高效率的工具
+- 🐦 X：[@TheOrange991105](https://x.com/TheOrange991105)
+- 📕 小红书：[郭同学在coding](https://xhslink.cn/o/8FbJHk34M95)
+- 📫 Email：[guosikang115@163.com](mailto:guosikang115@163.com)
